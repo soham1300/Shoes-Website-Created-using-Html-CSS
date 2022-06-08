@@ -1,0 +1,67 @@
+body{
+    font-family: 'Roboto Flex', sans-serif;
+}
+.topnav {
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 0px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: rgb(255, 255, 255);
+}
+.topnav a p{
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+.navleft{
+    float: right;
+}
+.navselect{
+    background-color: #ddd;
+    color: rgb(255, 255, 255);
+}
+.img1 img{
+    width: 420px;
+}
+.img1{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.img2 img{
+    width:320px ;
+}
+.img2{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.last{
+    padding-top: 3cm;
+    font-size: 17px;
+    text-align: left;
+}
+.last p{
+    margin-left: 60px;
+}
+.last a{
+    color: #000000;
+    text-decoration: none;
+}
+.ps{
+    font-size: smaller;
+}
+.ofm{
+    font-size: 30px;
+    margin-top: 70px;
+}
+.ofm1{
+    font-size: 30px;
+}
+
